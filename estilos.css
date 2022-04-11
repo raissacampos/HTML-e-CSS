@@ -48,3 +48,23 @@ ul li a{
    border-radius: 8px;
 
 }
+
+h4{
+    text-align: center;
+    color:#8E2424;
+    height: 60px;
+    font-size: 16px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    height: 90px;
+    font-size: 48px;
+}
+
+p{
+    text-align: center;
+    color:#667085;
+    font-size: 20px;
+}
