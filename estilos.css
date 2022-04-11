@@ -49,22 +49,65 @@ ul li a{
 
 }
 
-h4{
+h6{
     text-align: center;
     color:#8E2424;
     height: 60px;
     font-size: 16px;
 }
 
-h1{
+h2{
     text-align: center;
     color: black;
     height: 90px;
     font-size: 48px;
 }
 
-p{
+h3{
     text-align: center;
     color:#667085;
     font-size: 20px;
+}
+.metricas-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 30px;
+}
+.metricas-container div{
+    margin: 20px;
+    padding: 20px;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: #8E2424;
+    position: static;
+width: 280px;
+height: 72px;
+left: 0px;
+top: 0px;
+}
+
+h4{
+    font-size: 18px;
+    position: static;
+width: 280px;
+height: 28px;
+left: 0px;
+top: 0px;
+color: #101828;
+}
+
+p{
+    position: static;
+width: 280px;
+height: 48px;
+left: 0px;
+top: 36px;
+color:#667085
 }
