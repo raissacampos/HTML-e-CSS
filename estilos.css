@@ -83,7 +83,7 @@ h3{
 body{
     font-family: 'Inter', sans-serif;
 }
-h1{
+.metricas-container h1{
     font-size: 60px;
     color: #8E2424;
     position: static;
@@ -110,4 +110,26 @@ height: 48px;
 left: 0px;
 top: 36px;
 color:#667085
+}
+
+.quarta h1{
+    color: black;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+}
+
+.quarta h5{
+    font-size: 14px;
+    line-height: 20px;
+    position: static;
+    width: 101px;
+    height: 20px;
+    left: 12px;
+    top: 4px;
+    color:#8E2424;
+    border: none;
+    background-color: #8E24240D;
+    align-items: center;
+    justify-content:center ;
 }
