@@ -214,3 +214,35 @@ margin: 8px 0px;
     text-align: center;
     padding: 15px;
 }
+
+.sete h2{
+    font-size: 36px;
+    padding: 20px;
+}
+
+.sete p{
+    font-size: 20px;
+    text-align: center;
+    color: #667085;
+}
+.sete{
+    background-color: #F9FAFB;
+    margin: 60px 0px;
+
+}
+
+.sete li a{
+    background-color: #8E2424;
+    color: white;
+    border: 10px solid #8E2424;
+    border-radius: 8px;
+}
+
+.sete li input{
+    background-color: white;
+    border: 1px solid #D0D5DD;
+}
+.paragrafo p{
+    font-size: 15px;
+    color: #98A2B3;
+}
