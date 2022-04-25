@@ -143,3 +143,44 @@ color:#667085
     margin-left: auto;
     margin-right: auto;
 }
+
+h1{
+    font-size: 20px;
+    width: 768px;
+    margin:  0 auto;
+    color: black;
+   
+}
+
+.vaga{
+  width: 768px;
+  margin: 50px auto;
+  border: 1px solid #EAECF0;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 24px 28px;
+  border-radius: 16px;
+}
+.informacoes span{
+    width: 768px;
+  height: 100px;
+  position: relative;
+  margin: 15px;
+}
+.titulo h1{
+    font-size: 20px;
+    width: 768px;
+    margin:  0 auto;
+    color: black;
+}
+
+.titulo-vaga{
+   color:black;
+   position: static;
+width: 720px;
+height: 28px;
+left: 0px;
+top: 0px;
+font-size: 18px;
+margin: 8px 0px;
+}
